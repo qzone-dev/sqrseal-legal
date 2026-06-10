@@ -1,5 +1,6 @@
-# SQRSeal Privacy Policy
-
+---
+title: SQRSeal Privacy Policy
+---
 **Last updated:** June 2026  
 **Effective date:** June 2026
 
