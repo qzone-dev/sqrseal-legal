@@ -1,5 +1,6 @@
-# SQRSeal Terms of Use
-
+---
+title: SQRSeal Terms of Use
+---
 **Last updated:** June 2026  
 **Effective date:** June 2026
 
