@@ -1,5 +1,6 @@
-# SQRSeal Gizlilik Politikası
-
+---
+title: SQRSeal Gizlilik Politikası
+---
 **Son güncelleme:** Haziran 2026  
 **Yürürlük tarihi:** Haziran 2026
 
