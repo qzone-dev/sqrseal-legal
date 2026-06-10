@@ -1,5 +1,6 @@
-# SQRSeal Kullanım Koşulları
-
+---
+title: SQRSeal Kullanım Koşulları
+---
 **Son güncelleme:** Haziran 2026  
 **Yürürlük tarihi:** Haziran 2026
 
