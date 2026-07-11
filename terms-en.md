@@ -1,6 +1,11 @@
 ---
 title: SQRSeal Terms of Use
 ---
+<style>
+body { background: #ffffff; color: #1a1a2e; font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; line-height: 1.7; }
+h1,h2,h3 { color: #0f172a; }
+a { color: #0ED797; }
+</style>
 **Last updated:** June 2026  
 **Effective date:** June 2026
 
